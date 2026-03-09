@@ -4,5 +4,5 @@ Super-Pathway Transformer for cancer drug response prediction using multi-omics 
 <h2>Methodology Framework</h2>
 
 <p align="center">
-<img src="DeeSuperPath-Model.png" width="600">
+<img src="DeeSuperPath-Model.png" width="500">
 </p>
