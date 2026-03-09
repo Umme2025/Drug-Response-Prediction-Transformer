@@ -6,4 +6,4 @@ Super-Pathway Transformer for cancer drug response prediction using multi-omics 
 <p align="center">
 <img src="DeeSuperPath-Model.png" width="500">
 </p>
-**Figure 1.** Conceptual architecture of the Super-Pathway Transformer framework for multi-omics cancer drug response prediction.
+Figure 1. Conceptual architecture of the Super-Pathway Transformer framework for multi-omics cancer drug response prediction.
