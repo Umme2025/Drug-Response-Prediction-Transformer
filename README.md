@@ -9,4 +9,35 @@ Super-Pathway Transformer for cancer drug response prediction using multi-omics 
 Figure 1. Conceptual architecture of the Super-Pathway Transformer framework for multi-omics cancer drug response prediction.
 
 ## Overview
-This repository documents the conceptual framework of the Super-Pathway Transformer, a transformer-based model for predicting cancer drug response using multi-omics data and hierarchical pathway representations.
+This repository documents the conceptual framework of the Super-Pathway Transformer, a transformer-based model for predicting cancer drug response using multi-omics data and hierarchical pathway representations.  
+The framework integrates:
+
+- Multi-omics data (RNA, CNV, mutation, proteomics)
+- Pathway-level aggregation (MSigDB Hallmark pathways)
+- Super-pathway construction via clustering
+- Transformer-based modeling of pathway interactions
+- Bayesian linear head for uncertainty estimation
+- Layer-wise Relevance Propagation (LRP) for interpretability
+
+---
+
+## Environment Setup
+
+This project was developed using Python and Anaconda.  
+Follow the steps below to create the environment using **Command Prompt (CMD)**.
+
+---
+
+### Step 1: Open Command Prompt
+
+Go to your project folder using:
+
+```bash
+cd path\to\your\project
+
+### Step 2: Create Conda Environment
+```bash
+conda create -n deepathnet_env python=3.8 anaconda
+conda activate deepathnet_env
+pip install numpy pandas scikit-learn matplotlib torch jupyter
+jupyter notebook
