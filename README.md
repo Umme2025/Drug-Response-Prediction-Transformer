@@ -30,9 +30,9 @@ Good catch — you’re right. All steps should use the same heading format. Her
 ````markdown
 ### Step 1: Open Command Prompt
 
-Go to your project folder using:
+Go to project folder using:
 
-```
+```bash
 cd path\to\your\project
 ````
 
