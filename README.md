@@ -32,7 +32,7 @@ Good catch — you’re right. All steps should use the same heading format. Her
 
 Go to your project folder using:
 
-```bash
+```
 cd path\to\your\project
 ````
 
@@ -66,9 +66,6 @@ Start Jupyter Notebook by running:
 
 ```bash
 jupyter notebook
-```
-
-```
 ```
 
 
