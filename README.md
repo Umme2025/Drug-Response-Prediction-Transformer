@@ -25,27 +25,52 @@ The framework integrates:
 
 This project was developed using Python and Anaconda.  
 Follow the steps below to create the environment using **Command Prompt (CMD)**.
+Good catch — you’re right. All steps should use the same heading format. Here is the **corrected version**:
 
----
-
+````markdown
 ### Step 1: Open Command Prompt
 
 Go to your project folder using:
 
 ```bash
 cd path\to\your\project
+````
 
 ### Step 2: Create Conda Environment
+
+Create a new Conda environment with Python 3.8:
+
 ```bash
 conda create -n deepathnet_env python=3.8 anaconda
+```
+
+### Step 3: Activate Environment
+
+Activate the newly created environment:
+
+```bash
 conda activate deepathnet_env
+```
+
+### Step 4: Install Required Packages
+
+Install the necessary Python packages:
+
+```bash
 pip install numpy pandas scikit-learn matplotlib torch jupyter
+```
+
+### Step 5: Launch Jupyter Notebook
+
+Start Jupyter Notebook by running:
+
+```bash
 jupyter notebook
-Step 2: Create Conda Environment
-conda create -n deepathnet_env python=3.8 anaconda
-Step 3: Activate Environment
-conda activate deepathnet_env
-Step 4: Install Required Packages
-pip install numpy pandas scikit-learn matplotlib torch jupyter
-Step 5: Launch Jupyter Notebook
-jupyter notebook
+```
+
+```
+```
+
+
+---
+
