@@ -25,7 +25,7 @@ The framework integrates:
 
 This project was developed using Python and Anaconda.  
 Follow the steps below to create the environment using **Command Prompt (CMD)**.
-Good catch — you’re right. All steps should use the same heading format. Here is the **corrected version**:
+
 
 ````markdown
 ### Step 1: Open Command Prompt
