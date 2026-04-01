@@ -41,3 +41,11 @@ conda create -n deepathnet_env python=3.8 anaconda
 conda activate deepathnet_env
 pip install numpy pandas scikit-learn matplotlib torch jupyter
 jupyter notebook
+Step 2: Create Conda Environment
+conda create -n deepathnet_env python=3.8 anaconda
+Step 3: Activate Environment
+conda activate deepathnet_env
+Step 4: Install Required Packages
+pip install numpy pandas scikit-learn matplotlib torch jupyter
+Step 5: Launch Jupyter Notebook
+jupyter notebook
